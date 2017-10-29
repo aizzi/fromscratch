@@ -3,7 +3,7 @@ series: "From Scratch: Computing, Internet and Programming explained to my child
 article: "Introduction"
 ---
 | Previous | [Index](index.md) | Next |
-|---|---|---
+|---|---|---|
 
 # Introduction
 
@@ -32,4 +32,4 @@ Another way to contribute is to write full articles. If so, submit your pull req
 The third way to contribute is to propose topics and questions. If you want to do this, please open an issue and I will try and write the related answer to your question.
 
 | Previous | [Index](index.md) | Next |
-|---|---|---
+|---|---|---|
