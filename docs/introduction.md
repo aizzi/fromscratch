@@ -16,6 +16,8 @@ I know the answer, but I also know that it is not a straightforward one and it r
 
 Accordingly, language will be kept simple (also because english is not my primary language) and I will gladly sacrify accuracy in favour of clarity. If you are a technological purist, keep in mind that these articles are not for you.
 
+For the same reason, articles will be kept as short as possible without sacrifying the explanation because I noticed that the current generation is not particularly fond of long written text.
+
 Assuming no previous knowledge at all, it is my intention to create a learning path that can be followed by our children. This means that each article will build on previous ones, so they are intended to be consumed sequencially. Anyhow, if previous knowledge exists, you can skip the related articles and start with the topic you are interested to.
 
 `From Scratch` is released under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a> and is open to contribution.
