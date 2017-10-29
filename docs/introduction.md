@@ -2,6 +2,9 @@
 series: "From Scratch: Computing, Internet and Programming explained to my children"
 article: "Introduction"
 ---
+| Previous | [Index](index.md) | Next |
+|---|---|---
+
 # Introduction
 
 As all parents know, "how does it work?" is a recurring question from our children we all must be prepared to answer to.
@@ -27,3 +30,6 @@ To start, you can correct typos, spelling, grammar and syntax errors. As I said,
 Another way to contribute is to write full articles. If so, submit your pull request to add them. Again, provide your reference to be listed among contributors.
 
 The third way to contribute is to propose topics and questions. If you want to do this, please open an issue and I will try and write the related answer to your question.
+
+| Previous | [Index](index.md) | Next |
+|---|---|---
